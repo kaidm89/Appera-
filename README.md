@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @Appera
 - 👀 I’m interested in | Programming
 - 🌱 I’m currently learning Creating | scripts and learning programming languages 
-1.html ✅
-2.scc ✅
-3.py
-4. lua
-5. javascript
+1.html ✅ 2.scc ✅ 3.py 4. lua 5. javascript
   
 - 💞️ I’m looking to collaborate on | Helping people, helping them, and solving their problems
 - 📫 How to reach me | i don't know
